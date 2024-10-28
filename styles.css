@@ -1,45 +1,50 @@
 html{
-    background-color: rgb(162, 187, 187);
+    background-color: rgb(156, 211, 211);
     word-spacing: 3pt;
 }
 h1{
     color:rgb(3, 2, 0);
-    background-color: bisque;
+ background-color: bisque;
     text-align: center;
-    font-size:30pt;
+    border-style: dotted;
+    
 }
 p{
-    font-size: 28px;
+    font-size: 23px;
     font-weight: 800;
     background-color: aliceblue;
 }
 .adi{
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 800;
 }
 .adi:hover{
-    background-color: rgb(161, 18, 20);
+    background-color: rgb(60, 7, 8);
     color: white
 }
-h4{
-    font-size: 18pt;
-    font-weight: 800;
-}
-.hi{
-    font-size: 19pt;
+
     
-}
+
 #dob{
     background-color:rgb(216, 224, 198);
 }
-h3,h2{
-    font-size: 29pt;
+h2{
+    font-size: 30px;
     color: rgb(76, 128, 184);
     background-color:rgb(194, 228, 217)
 }
+h3{
+    font-size: 26px;
+    color:red;
+    font-weight: 900;
+    background-color: antiquewhite;
+
+
+}
+
 ul{
-    font-size: 30px;
-    font-weight:700
+    font-size: 22px;
+    font-weight:700;
 }
 #film{
     background-color: rgb(181, 131, 131);
